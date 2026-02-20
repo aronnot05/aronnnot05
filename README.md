@@ -1,7 +1,7 @@
 # Aron Nöteberg
-### Civilingenjörsstudent inom Informationsteknik vid KTH
+### Civilingenjörsstudent i Informationsteknik vid KTH
 
-Hej, jag heter Aron Nöteberg och läser just nu till civilingenjör inom Informationsteknik på Kungliga tekniska högskolan.
+Hej, jag heter Aron Nöteberg och läser just nu till civilingenjör i Informationsteknik på Kungliga tekniska högskolan.
 
 Jag lägger till saker kontinuerligt på sidan.
 
